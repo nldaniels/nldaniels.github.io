@@ -1,1 +1,2 @@
 # nldaniels.github.io
+My name is Nick Daniels and this is my second year here at Wake Tech. I am looking forward to this class as I have always been interested in how programming works and the use cases of it. My favorite animal would probably be the red panda.
